@@ -34,12 +34,14 @@ The following **bonus** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [x] I used CardView to make layout better
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/noNg8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

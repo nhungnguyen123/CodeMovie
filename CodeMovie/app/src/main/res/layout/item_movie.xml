@@ -20,7 +20,6 @@
                 android:layout_width="0dp"
                 android:layout_height="@dimen/cover_height"
                 android:layout_weight="1"
-                android:scaleType="fitXY"
                 android:src="@drawable/demo" />
 
             <LinearLayout
