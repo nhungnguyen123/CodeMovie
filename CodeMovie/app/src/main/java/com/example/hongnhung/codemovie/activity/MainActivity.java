@@ -50,11 +50,11 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         movieApi = RetrofitUtils.get().create(MovieApi.class);
-        if (savedInstanceState == null) {
+//        if (savedInstanceState == null) {
             callMovie();
-        } else {
-
-        }
+//        } else {
+//
+//        }
 
 // call swipe
         swipeContainer.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
@@ -71,11 +71,11 @@ public class MainActivity extends Activity {
 
     }
 
-    @Override
-    protected void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
-//        outState.putParcelable();
-    }
+//    @Override
+//    protected void onSaveInstanceState(Bundle outState) {
+//        super.onSaveInstanceState(outState);
+////        outState.putParcelable();
+//    }
 
     public void callMovie() {
         movieApi.getNowPlaying().enqueue(new Callback<NowPlaying>() {
