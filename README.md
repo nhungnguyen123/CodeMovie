@@ -5,8 +5,6 @@ Time spent: **15** hours spent in total
 
 ## User Stories
 
-
-
 The following **required** functionality is completed:
 
 * [x] User can **scroll through current movies** from the Movie Database API
