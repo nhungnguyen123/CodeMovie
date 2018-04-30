@@ -30,6 +30,7 @@ The following **bonus** features are implemented:
 * [] Apply rounded corners for the poster or background images using [Picasso transformations](https://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library#other-transformations)
 * [x] Replaced android-async-http network client with the popular [OkHttp](http://guides.codepath.com/android/Using-OkHttp) networking libraries.
 
+
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
